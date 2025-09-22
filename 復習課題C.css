@@ -1,9 +1,10 @@
 header {
     background-color: #600404;
-    color: white;
+    color: #f5e9e9;
 }
 #title {
     text-align: center;
+    font-size: 18px;
 }
 nav ul {
     list-style: none;
