@@ -1,0 +1,41 @@
+header {
+    background-color: #600404;
+    color: white;
+}
+#title {
+    text-align: center;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+nav a {
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+}
+    div {
+    text-align: center;
+}
+img {
+    width: 300px;
+    border-radius: 20px;
+}
+footer {
+    background: #cf7878;
+    font-size: 12px;
+}
+@media (max-width: 768px) {
+    #title {
+        font-size: 18px;
+    }
+    nav ul {
+        flex-direction: column;
+        gap: 10px;
+    }
+    img {
+        width: 100%;
+    }
+}
