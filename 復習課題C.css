@@ -15,14 +15,14 @@ nav ul {
 nav a {
     text-decoration: none;
     color: white;
-    font-size: 14px;
+    font-size: 13px;
 }
     div {
     text-align: center;
 }
 img {
     width: 300px;
-    border-radius: 20px;
+    border-radius: 30px;
 }
 footer {
     background: #333333;
